@@ -2,7 +2,7 @@
 
 # Aim
 
-To write a Python program using OpenCV to perform **Canny Edge Detection** on images without applying Gaussian Blur.
+To write a Python program using OpenCV to perform **Canny Edge Detection**
 
 # Software Required
 
